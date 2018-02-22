@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads AVG Anti-virus for MacOS Installer and extracts the embedded package, uploads to JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.pasd-tech.jss.AVGAntiVirus</string>
+	<string>com.github.pasd_tech.jss.AVGAntiVirus</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
