@@ -25,8 +25,8 @@
 		<key>SELF_SERVICE_ICON</key>
 		<string>AVGAntiVirus.png</string>
 	</dict>
-	<key>MinimumVersion</key>
-	<string>0.1.0</string>
+ 	   <key>MinimumVersion</key>
+ 	   <string>1.0.1</string>
 	<key>ParentRecipe</key>
 	<string>com.github.pasd_tech.download.AVGAntiVirus</string>
 	<key>Process</key>
