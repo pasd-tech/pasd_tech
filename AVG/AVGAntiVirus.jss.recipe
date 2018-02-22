@@ -9,11 +9,11 @@
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
-		<string>Digital Media</string>
+		<string>Utility</string>
 		<key>GROUP_NAME</key>
 		<string>%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>AVGAntiVirusSmartGroupTemplate.xml</string>
+		<string>SmartGroupTemplate.xml</string>
 		<key>NAME</key>
 		<string>AVGAntiVirus</string>
 		<key>POLICY_CATEGORY</key>
@@ -21,12 +21,12 @@
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string></string>
+		<string>Beneath its deceptively simple design lies a powerful virus cleaner that works in real-time to detect and remove not only Mac-specific viruses and spyware, but PC and mobile threats, too. So AVG AntiVirus not only helps protect all that's important on your Mac, it also prevents you from infecting friends on other devices.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>AVGAntiVirus.png</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>0.4.0</string>
+	<string>0.1.0</string>
 	<key>ParentRecipe</key>
 	<string>com.github.pasd_tech.download.AVGAntiVirus</string>
 	<key>Process</key>
@@ -37,12 +37,6 @@
 				<key>category</key>
 				<string>%CATEGORY%</string>
 				<key>extension_attributes</key>
-				<array>
-					<dict>
-						<key>ext_attribute_path</key>
-						<string>AVGAntiVirusExtensionAttribute.xml</string>
-					</dict>
-				</array>
 				<key>groups</key>
 				<array>
 					<dict>
