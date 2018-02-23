@@ -28,7 +28,7 @@
  	   <key>MinimumVersion</key>
  	   <string>1.0.1</string>
 	<key>ParentRecipe</key>
-	<string>com.github.pasd_tech.pkg.AVGAntiVirus</string>
+	<string>com.github.pasd_tech.download.AVGAntiVirus</string>
 	<key>Process</key>
 	<array>
 		<dict>
