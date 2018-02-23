@@ -21,7 +21,7 @@
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>A powerful virus cleaner that works in real-time to detect and remove not only Mac-specific viruses and spyware, but PC and mobile threats, too. So AVG AntiVirus not only helps protect all that is important on your Mac, it also prevents you from infecting friends on other devices.</string>
+		<string>A powerful virus cleaner that works in real-time to detect and remove not only Mac-specific viruses and spyware, but PC and mobile threats, too.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>AVGAntiVirus.png</string>
 	</dict>
