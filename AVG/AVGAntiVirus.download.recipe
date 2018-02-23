@@ -26,7 +26,7 @@
                 <string>%DOWNLOAD_URL%</string>
                 <key>filename</key>
                 <string>%NAME%.dmg</string>
-            </dict>
+            </dict>	    
         </dict>
  <dict>
             <key>Processor</key>
@@ -44,16 +44,5 @@
             </dict>
         </dict>
     </array>
-<array>
-<dict>
-<key>Arguments</key>
-	<dict>
-		<key>flat_pkg_path</key>
-		<string>%pathname%/Install AVG AntiVirus.pkg</string>
-		<key>destination_path</key>
-		<string>%RECIPE_CACHE_DIR%/unpack</string>
-	</dict>
-</dict>
-</array>
 </dict>
 </plist>
