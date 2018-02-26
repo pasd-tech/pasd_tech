@@ -14,7 +14,7 @@
         <string>http://www.avg.com/ww-en/download-file-mac-av</string>
     </dict>
     <key>MinimumVersion</key>
-    <string>1.0.1</string>
+    <string>1.0.0</string>
     <key>Process</key>
     <array>
         <dict>
